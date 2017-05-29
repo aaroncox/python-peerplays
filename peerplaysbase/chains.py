@@ -1,6 +1,6 @@
 known_chains = {
     "PPY1": {
-        "chain_id": "82c339d32256728bcc4df63bcc3e3244f6140a16fef31f707a6613ad189156ae",
+        "chain_id": "f63221f375c735b4cfc9b30be11bb3466808ee796ccc9c5311f0446c4c527767",
         "core_symbol": "PPY",
         "prefix": "PPY"},
 }
